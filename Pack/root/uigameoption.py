@@ -7,9 +7,9 @@
 
 ## Altına ekle
 
-			self.MadaraModelShow.append(GetObject("ShowMadaraPetButton"))
-			self.MadaraModelShow.append(GetObject("ShowMadaraMountButton"))	
-			self.MadaraModelShow.append(GetObject("ShowMadaraShopButton"))	
+			self.LyrionModelShow.append(GetObject("ShowLyrionPetButton"))
+			self.LyrionModelShow.append(GetObject("ShowLyrionMountButton"))	
+			self.LyrionModelShow.append(GetObject("ShowLyrionShopButton"))	
 
 #####################/*/-*/-*/*-/-*/-*/-//-/ 「Lyrion 」 YunusED || Metin2House /*/-*/-*/*-/-*/-*/-//-/#####################
 
